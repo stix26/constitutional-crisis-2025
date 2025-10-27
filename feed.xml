@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>The 2025 Shutdown: A Constitutional Crisis Brewing in Plain Sight</title>
+    <description>An analysis of the 2025 federal government shutdown as a constitutional crisis</description>
+    <link>https://stix26.github.io/constitutional-crisis-2025/</link>
+    <atom:link href="https://stix26.github.io/constitutional-crisis-2025/feed.xml" rel="self" type="application/rss+xml"/>
+    <language>en-us</language>
+    <lastBuildDate>2024-10-26T21:00:00+00:00</lastBuildDate>
+    <item>
+      <title>The 2025 Shutdown: A Constitutional Crisis Brewing in Plain Sight</title>
+      <description>At 12:01 a.m. on October 1, 2025, the United States government faced a familiar crisis: a partial shutdown. The fiscal year had ended, and Congress hadn't passed new funding. But this wasn't just another budget squabble; it felt like something more fundamental was at stake.</description>
+      <link>https://stix26.github.io/constitutional-crisis-2025/</link>
+      <guid>https://stix26.github.io/constitutional-crisis-2025/</guid>
+      <pubDate>2024-10-26T21:00:00+00:00</pubDate>
+      <author>stilesseymens@example.com (Stiles Seymens)</author>
+    </item>
+  </channel>
+</rss>
